@@ -1,0 +1,5 @@
+﻿torch==<версия>
+transformers==<версия>
+scikit-learn==<версия>
+matplotlib==<версия>
+pandas==<версия>
